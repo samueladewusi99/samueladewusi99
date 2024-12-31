@@ -1,4 +1,9 @@
 ## Hi there 👋 
+
+
+![image](https://github.com/user-attachments/assets/cdab4876-0827-4368-be24-01968274513c)
+
+
 👋 About Me
 
 Hi, I’m Samuel Adewusi, a Cybersecurity Professional specializing in Identity and Access Management (IAM), Cloud Security and Data Governance. My focus is on the MIcrosoft Cloud Infrastructure particularly Microsoft 365 and Azure. This is where I hone and utilize majority of my skills. I manage user identities, roles, permissions, and conditional access policies using Entra ID. 
