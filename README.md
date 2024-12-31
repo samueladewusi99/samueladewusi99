@@ -1,7 +1,7 @@
 ## Hi there 👋 
 
 
-![image](https://github.com/user-attachments/assets/cdab4876-0827-4368-be24-01968274513c)
+[![image](https://github.com/user-attachments/assets/cdab4876-0827-4368-be24-01968274513c)](https://camo.githubusercontent.com/7f8bb3190999081788a39ae09c4d161f9d67f450c6e8b7ab2104888a80083609/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966)
 
 
 👋 About Me
