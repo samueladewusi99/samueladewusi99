@@ -24,7 +24,7 @@ I am proficient in PowerShell scripting for automation, have experience with IAM
 
 📂Professional Experience
 
-Azure Cloud IAM Analyst - Power Solutions Group LLC (2023–2024)
+Azure Cloud IAM Analyst - Power Solutions Group LLC (2023–2025)
 
 
 Designed and managed IAM solutions, achieving a Microsoft Secure Score >90% in Identity and Access.
@@ -45,7 +45,14 @@ MSc in Cybersecurity - Wright State University (2023)
 
 BSc in Computer Science- Babcock University (2019)
 
-Microsoft Certified: Azure Fundamentals (AZ-900)
+CC- Certified in Cybersecurity, ISC2 (2025)
+
+Microsoft Certified AZ-900: Azure Fundamentals, Microsoft	(2023)
+
+Oracle Database 11g: SQL Fundamentals, Oracle	(2018)
+
+AWS Certified Solutions Architect- Associate, Amazon (In Progress)
+
 
 🔭 I’m currently studying for the Microsoft Certified: Identity and Access Administrator Associate Certification SC-300 & Azure Security Engineer Associate AZ-500
 
